@@ -1,0 +1,22 @@
+
+body{
+    background-image: linear-gradient(red, orange, gold);
+    height: 710px;
+    width: 710px;
+}
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.descricao{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.botao{
+    border: 12cm;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: aqua;
+}
